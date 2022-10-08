@@ -16,4 +16,5 @@ Things we need to make our Wordpress as HA(High avilability)
 
 sh ./build-ansible-image.sh
 
+Note: Before executing it make changes in the code according to your host file environment
 
